@@ -1,3 +1,4 @@
 # Reinforcement-Learning
 
-This is a running repo for the tutorials I am creating on Reinforcement Learning. We will be using a grid, and build an agent and multi agents that can navigate through the grid. 
+This repository contains a series of tutorials on Reinforcement Learning. We start with a simple grid environment and progressively build agents—including multi-agent systems that learn to navigate it. The tutorials begin with foundational concepts, such as the REINFORCE algorithm, and advance toward more sophisticated policy gradient methods.
+
